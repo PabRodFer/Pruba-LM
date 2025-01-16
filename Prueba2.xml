@@ -1,0 +1,34 @@
+<rss version="2.0">
+  <channel>
+    <title>Noticias de Tecnología</title>
+    <description>Últimas noticias sobre avances tecnológicos</description>
+    <link>https://www.noticias-tecnologia.com</link>
+    <pubDate>Mon, 13 Jan 2025 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Jan 2025 08:00:00 GMT</lastBuildDate>
+    
+    <!-- Entrada 1 -->
+    <item>
+      <title>Nueva consola de Nintendo</title>
+      <description>Nintendo presenta su nuevo hardware.</description>
+      <link>https://www.noticias-tecnologia.com/noticia1</link>
+      <pubDate>Mon, 13 Jan 2025 08:30:00 GMT</pubDate>
+    </item>
+    
+    <!-- Entrada 2 -->
+    <item>
+      <title>Avances en procesadores </title>
+      <description>Investigadores han descubierto un nuevo tipo de procesador </description>
+      <link>https://www.noticias-tecnologia.com/noticia2</link>
+      <pubDate>Tue, 14 Jan 2025 09:00:00 GMT</pubDate>
+    </item>
+    
+    <!-- Entrada 3 -->
+    <item>
+      <title>Nuevo sistema operativo para telefonos</title>
+      <description>El nuevo sistema operativo promete mayor seguridad en dispositivos móviles.</description>
+      <link>https://www.noticias-tecnologia.com/noticia3</link>
+      <pubDate>Wed, 15 Jan 2025 10:15:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
